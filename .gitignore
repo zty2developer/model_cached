@@ -22,7 +22,7 @@
 !/storage/.keep
 
 # Ignore .idea
-/.idea
+/.idea/*
 
 /node_modules
 /yarn-error.log
